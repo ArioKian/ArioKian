@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArioKian
-- 👀 I’m interested in FPGA and Embedded System on Chip Designs based on Xilinx Zynq Soc Devices  
-- 🌱 I’m currently learning anything about FPGA based Designs 
+- 👀 Interested in FPGA and Embedded System on Chip Designs based on Xilinx Zynq Soc Devices  
+- 🌱 Side-Channel Analysis Researcher 
 - 📫 How to reach me : akianazad@gmail.com
 
 <!---
